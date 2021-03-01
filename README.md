@@ -1,2 +1,2 @@
-# git_pip_install
-This repo is made for test about Python pip install with github
+# HOW TO USE
+Add keep_alive() to code. Then, do what the website says.
