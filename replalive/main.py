@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-    resres = "Your project is alive! now go <a href="https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008">here</a> and go to the 4th step, do the rest of it."
+    resres = 'Your project is alive! now go <a href="https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008">here</a> and go to the 4th step, do the rest of it.'
     return resres
     
 def run():
